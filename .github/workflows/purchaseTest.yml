@@ -1,4 +1,4 @@
-name: Lotto purchase (cron)
+name: Lotto purchase test(cron)
 on:
   schedule:
     # 매 주 일요일 오전 7시, Github Actions 에서는 UTC 기준으로 실행됨
